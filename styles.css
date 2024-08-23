@@ -60,3 +60,20 @@ body {
 .middle-child {
     margin-bottom: 40px;
 }
+
+.card {
+    width: 600px;
+    display: flex;
+    background: burlywood;
+    margin: 0px auto;
+    align-items: center;
+    padding: 40px;
+    border-bottom: 5px solid rebeccapurple;
+    margin: 50px auto;
+
+}
+
+.photo {
+    width: 300px;
+    border-radius: 30px;
+}
