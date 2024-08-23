@@ -8,9 +8,26 @@ body {
 
     background-image: url("./Images/houston.jpg");
     background-size: cover;
+    padding: 20px;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
 
 }
 
-hero h1, hero h2 {
-    background-color: blanchedalmond;
+.hero h1 {
+    color: purple;
+    background: indianred;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+
+.hero h2 {
+    color: purple;
+    background: goldenrod;
+    padding: 10px 15px;
+    border-radius: 10px;
 }
