@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: bisque;
+    margin: 0;
+}
+
+.hero {
+
+    background-image: url("./Images/houston.jpg");
+    background-size: cover;
+
+}
+
+hero h1, hero h2 {
+    background-color: blanchedalmond;
+}
