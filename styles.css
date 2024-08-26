@@ -9,13 +9,12 @@ body {
 
     background-image: url("./Images/houston.jpg");
     background-size: cover;
-    padding: 50px;
+    background-position: center;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-
-
+    height: 500px;
 }
 
 .hero h1 {
@@ -44,19 +43,21 @@ body {
 }
 
 .activ-img {
-
-    width: 300px;
+    height:250px;
+    width:250px;
     border-radius: 50%;
-
 }
 
 .middle {
     background: darkgray;
-    /* padding: 300px; */
+    margin: 0  auto;
+    height: 500px;
 }
 
 .middle-child {
-    margin-bottom: 40px;
+    margin-bottom: 50px;
+    margin-top: 0px;
+    padding-top: 20px;
 }
 
 .card {
